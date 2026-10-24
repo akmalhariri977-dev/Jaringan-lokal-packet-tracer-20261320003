@@ -25,18 +25,6 @@ I enjoy working on projects that combine technology, problem solving, and practi
 
 > Rancangan jaringan lokal menggunakan Packet Tracer dengan kriteria perangkat
 
-This project focuses on designing a local network using Cisco Packet Tracer with device-based requirements, emphasizing network planning and simulation.
-
-
-## GitHub Stats 📊
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akmalhariri977-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akmalhariri977-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## Current Status ✨
 > A masterpiece in progress 😁
 
