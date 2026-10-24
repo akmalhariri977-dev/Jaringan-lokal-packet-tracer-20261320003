@@ -3,10 +3,6 @@
 ### I'm Akmal Hariri
 
 <p align="center">
-  <img src="img/github_header.jpg" alt="Akmal Hariri" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ2ZjI1Y2VxYWM4MGQ3bmhvbjJpNzMxdWlwcTV3cjBuZHc0MDhjZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/6hYEkoBynqmnRAs1dc/giphy.gif" alt="GIF" width="480" />
 </p>
 
