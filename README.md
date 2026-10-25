@@ -1,5 +1,3 @@
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Akmal+Hariri+👋;Cisco +Packet+Tracer;Algorithm+Enthusiast;C%2B%2B+Developer;Problem+Solver;Always+Learning;Tugas+Mata+Kuliah" alt="Typing SVG" />
-
 ## Tech Stack 🛠️
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
